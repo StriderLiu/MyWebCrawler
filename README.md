@@ -1,4 +1,4 @@
 java-web-crawler
 ================
 
-Several web crawlers implemented in Java using singlethreaded and multithreaded designs. 
+Singlethreaded and multithreaded web crawlers implemented in Java
